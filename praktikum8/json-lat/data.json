@@ -1,0 +1,46 @@
+[
+ {
+ "nim":"12264",
+ "nama":"Dahlia Maya Sofa",
+ "alamat":"Semarang",
+ "jurusan":"Teknik Informatika",
+ "MK":[
+ {
+ "mk_kode":"54205",
+ "nama_mk":"ETIKA PROFESI"
+ },
+ {
+ "mk_kode":"54301",
+ "nama_mk":"PROBABILITAS DAN STATISTIK"
+ },
+ {
+ "mk_kode":"54302",
+ "nama_mk":"MATEMATIKA DISKRIT"
+ },
+ {
+ "mk_kode":"54303",
+
+ "nama_mk":"MATRIKS DAN RUANG VEKTOR"
+ },
+ {
+ "mk_kode":"54306",
+ "nama_mk":"STRUKTUR DATA"
+ },
+ {
+ "mk_kode":"54314",
+ "nama_mk":"PEMROGRAMAN BERBASIS WEB"
+ },
+ {
+ "mk_kode":"54403",
+ "nama_mk":"ORGANISASI DAN ARSITEKTUR KOMPUTER"
+ },
+ {
+ "mk_kode":"201702",
+ "nama_mk":"LITERASI INFORMASI"
+ },
+ {
+ "mk_kode":"201706",
+ "nama_mk":"PENDIDIKAN KEWARGANEGARAAN"
+ }
+ ]
+ 
